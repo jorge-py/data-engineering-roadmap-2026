@@ -177,3 +177,6 @@ pyrightconfig.json
 
 # Archivo de datos origen - data engineering roadmap
 yellow_tripdata_2024-01.**parquet
+
+/nyc-tlc-data/
+
